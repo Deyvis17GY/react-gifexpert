@@ -1,6 +1,10 @@
 # GifExpert Using React
 
-Homepage: https://deyvis17gy.github.io/react-gifexpert/
+```
+"main view": https://deyvis17gy.github.io/react-gifexpert/
+```
+
+![preview](./docs/img/home.png)
 
 ## Available Scripts
 
