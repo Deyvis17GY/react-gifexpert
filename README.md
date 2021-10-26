@@ -1,8 +1,7 @@
 # GifExpert Using React
 
-```
-"main view": https://deyvis17gy.github.io/react-gifexpert/
-```
+Open Main View:
+[https://deyvis17gy.github.io/react-gifexpert/](https://deyvis17gy.github.io/react-gifexpert/)
 
 ![preview](./docs/img/home.png)
 
