@@ -18,7 +18,12 @@ export const AddCategory = ({ setCategories }) => {
 
   return (
     <form onSubmit={handleSubmit}>
-      <input type="text" value={inputValue} onChange={handleInputChange} />
+      <input
+        placeholder="Busca tu anime favorito"
+        type="text"
+        value={inputValue}
+        onChange={handleInputChange}
+      />
     </form>
   );
 };

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# GifExpert Using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Homepage: https://deyvis17gy.github.io/react-gifexpert/
 
 ## Available Scripts
 
